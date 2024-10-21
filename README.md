@@ -1,2 +1,2 @@
 # PGWAcara7
-WebGIS sederhana dengan menggunakan PHP
+Tutorial PHP Paling Sederhana
